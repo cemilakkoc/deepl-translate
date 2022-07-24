@@ -46,6 +46,7 @@ Currently the following languages are supported:
 | SL           | Slovenian  | Slovenščina             |
 | ES           | Spanish    | Español                 |
 | SV           | Swedish    | Svenska                 |
+| TR           | Turkish    | Türkçe                  |
 
 You can either input the abbreviation or the language written in english. 
 
